@@ -1,5 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrWhyvnN/g9OTeXV.png" group-title="Music",Sangeet Bangla
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m4.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/e800c60a-cd0b-489c-bbe6-d2f91eec9f42/0.m3u8?nadimrazatv
