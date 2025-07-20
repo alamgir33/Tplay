@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrWhyvnN/g9OTeXV.png" group-title="Music",Sangeet Bangla
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+#EXTINF:-1 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
 
